@@ -1,13 +1,20 @@
 [README](https://github.com/Michael-Zerghe/exercise-markdown/blob/main/README.md)
-* Markdown peut faire des listes
-* C'est plutot sympa
 
-1. Il peut meme faire des listes ordonnées
-2. Et ça c'est incroyable
+## Unordered list
 
-* On peut aussi faire des listes
-  * Dans des listes
-  * C'est pratique quand on veut sous-lister des trucs
+* We can make some lists with Markdown
+* It's pretty nice !
+
+
+## Ordered list
+
+1. We can also make some ordered list 
+2. And that's really cool !
+
+## List Within a list
+
+* Also, we can make some lists
+  * within lists
 
 # ceci est un titre
 ## Ceci est sous-titre
