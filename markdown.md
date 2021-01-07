@@ -4,7 +4,6 @@
 
 1. Il peut meme faire des listes ordonnées
 2. Et ça c'est incroyable
-3. 
 
 1. On peut aussi faire des listes
   * Dans des listes
@@ -15,6 +14,7 @@
 ### ceci est aussi un sous-titre
 
 [mon github](https://github.com/Michael-Zerghe)
+
 [BeCode](https://becode.org/fr/)
 
 ![Logo Becode](https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png)
