@@ -5,7 +5,7 @@
 1. Il peut meme faire des listes ordonnées
 2. Et ça c'est incroyable
 
-1. On peut aussi faire des listes
+* On peut aussi faire des listes
   * Dans des listes
   * C'est pratique quand on veut sous-lister des trucs
 
