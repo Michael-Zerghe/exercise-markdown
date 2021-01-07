@@ -1,4 +1,4 @@
-[README.md](https://github.com/Michael-Zerghe/exercise-markdown/blob/main/README.md)
+[README](https://github.com/Michael-Zerghe/exercise-markdown/blob/main/README.md)
 * Markdown peut faire des listes
 * C'est plutot sympa
 
