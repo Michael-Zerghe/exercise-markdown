@@ -1,1 +1,1 @@
-[README.md](htps://github.com/Michael-Zerghe/exercise-markdown/blob/main/README.md)
+[README.md](https://github.com/Michael-Zerghe/exercise-markdown/blob/main/README.md)
